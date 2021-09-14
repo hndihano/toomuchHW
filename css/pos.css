@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+}
+
+nav{
+    position: fixed;
+    width: 100%;
+    height: 80px;
+    background-color: white;
+    box-shadow: 8px 8px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin-bottom: 0;
+
+
+}
+div{
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    background-color: white;
+
+
+}
+body{
+    background-color: grey;
+    height: 800px;
+
+
+}
+#shadow{
+    height: 80px;
+    width: 80px;
+    background-color: black;
+    left: 90%;
+    width: 90%;
+    top: -20px;
+    bottom: -20px;
+    position: fixed;
+
+}
+#footer {
+    z-index: 98;
+    position: fixed;
+    height: 80px;
+    width: 100%;
+    background-color: white;
+    border-top: 2px solid black ;
+    border-color: black;
+    bottom: 0;
+    left: 0;
+    margin-bottom: 0;
+    text-align: center;
+    box-sizing: border-box;
+
+}
+
+
